@@ -1,0 +1,6 @@
+{
+  "name": "CivicSite",
+  "description": "An AI-powered community hazard reporting and predictive analytics platform to identify, verify, and resolve local infrastructure issues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
